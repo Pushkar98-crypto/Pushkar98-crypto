@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pushkar Yadav
-- 👀 I love coding and belive coding is the thing that can transform world
-- 🌱 I’m currently Full stack and Machine Learing 
-- 💞️ I’m looking forward for Frontend and Full stack Freelance Projects
+- 👀 I love coding and believe that coding is the thing that can transform world 360 degrees
+- 🌱 I’m currently  working on Full stack development and learning Machine Learing and AI
+- 💞️ I’m looking forward for Frontend and Full stack Freelance Projects.
 - 📫 How to reach me : You can mail me on pushkaryadav.4998@gmail.com
 
 <!---
